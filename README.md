@@ -10,15 +10,14 @@ All changes made based on personal observations of what makes sense whilst doing
 - True Strike action cost change to bonus action points with a duration of one turn and usable once per short rest
 - Blade Ward action cost change to bonus action points with a duration of five turns and usable once per short rest
 
-## Installation
+## Installation:
 ### Requirements:
-[BG3ModManager](https://github.com/LaughingLeader/BG3ModManager/releases/latest)  
 ...tobecompleted...
 
 
 ### Instructions:
 ...tobecompleted...
 
-## Building:
+## Misc.
 ...tobecompleted...
 

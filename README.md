@@ -1,4 +1,4 @@
-# bg3-mod-ActionSpellFix
+# Baldur's Gate 3 Mod ActionSpellFix
 ## Description:
 Adjustments to Specific Spells and Actions in BG3 to either provide better usage, QoL or balance.
 All changes made based on personal observations of what makes sense whilst doing my best to avoid major changes to overall combat difficulty

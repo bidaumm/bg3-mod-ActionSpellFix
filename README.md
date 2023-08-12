@@ -4,7 +4,7 @@ Adjustments to Specific Spells and Actions in BG3 to either provide better usage
 All changes made based on personal observations of what makes sense whilst doing my best to avoid major changes to overall combat difficulty
 
 ## Changelog:
-- Dash added to all Spiritual Weapons at a cost of 1 action point
+- Dash added to all Spiritual Weapons at a cost of 1 action point and Fly extended to 9m
 - Jump movement cost changed from fixed 3m to based on distance traveled
 - Shove action cost changed from bonus action points to action points
 - True Strike action cost change to bonus action points with a duration of one turn and usable once per short rest

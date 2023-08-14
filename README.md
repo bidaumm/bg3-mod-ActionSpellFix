@@ -8,8 +8,8 @@ All changes made based on personal observations of what makes sense whilst doing
 - Fly extended to 9m for all Spiritual Weapons
 - Jump movement cost changed from fixed 3m to based on distance traveled
 - Shove action cost changed from bonus action points to action points
-- Enhanced Jump changed to apply to all in 3m radius around target with duration of 100 turns and usable once per short rest
-- Feather Fall changed to duration of 100 turns and usable once per short rest
+- Enhanced Jump changed to apply to all in 3m radius around target with duration of 50 turns and usable once per short rest
+- Feather Fall changed to duration of 50 turns and usable once per short rest
 - True Strike action cost change to bonus action points with a duration of one turn and usable once per short rest
 - Blade Ward action cost change to bonus action points with a duration of five turns and usable once per short rest
 
